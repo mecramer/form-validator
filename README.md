@@ -9,3 +9,5 @@ Using JavaScript, this validator performs some basic form validation
 * Confirming both password entries are the same
 
 For valid fields, the infput field gets a green border, for invalid fields, the field gets a red border and a message below indicating what needs to be fixed.
+
+[Demo](https://rawcdn.githack.com/mecramer/form-validator/aea37ab4120b5224f97ca4efa098b54fc1ce5fdb/index.html)
